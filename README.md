@@ -1,6 +1,6 @@
 # online_course
 
-![alt text](https://github.com/DeniJuly/OnlineCourse/blob/master/assets/Home.png?raw=true)
+![alt text](https://github.com/DeniJuly/OnlineCourse/blob/master/assets/Design.png?raw=true)
 Frontend mobile app made with flutter about online course.
 design by: https://pixel.buildwithangga.com/home
 
