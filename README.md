@@ -2,6 +2,7 @@
 
 ![alt text](https://github.com/DeniJuly/OnlineCourse/blob/master/assets/Home.png?raw=true)
 Frontend mobile app made with flutter about online course.
+design by: https://pixel.buildwithangga.com/home
 
 ## Getting Started
 
